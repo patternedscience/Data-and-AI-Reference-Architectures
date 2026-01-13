@@ -4,7 +4,7 @@
 
 This repository contains a set of diagrams depicting detailed Data & AI Architecture on several public infrastructure and platforms, in the cloud and on-prem. The focus is on platform architecture, with some potential inter-platform communications displayed that are typically needed in a solution architecture. The following infra/platforms are covered:
 
-- Azure: main data & AI platforms in Microsoft Azure have been covered and the architecture modeling/diagrams follow the C4 methodology.
+- Azure: main data & AI platforms in Microsoft Azure have been covered and the architecture modeling/diagrams follow the C4 methodology ([interactive viewer](https://www.patterned.science/assets/architectures/azure/)).
 
 - To come: OpenShift AI, Databricks, AWS, Snowflake
 

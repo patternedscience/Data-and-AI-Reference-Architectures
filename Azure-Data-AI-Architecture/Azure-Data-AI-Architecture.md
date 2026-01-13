@@ -1,5 +1,7 @@
 # Azure Data & AI Reference Architecture
 
+The diagrams are available in an [interactive viewer](https://www.patterned.science/assets/architectures/azure/) as well as as a set of static images below:
+
 ## System Landscape Diagram
 ![Azure Data & AI Reference Architecture: System Landscape Diagram](assets/azure-data-ai-architecture-landscape.png)
 
